@@ -9,3 +9,15 @@
     background-size: cover;
     min-height: 100vh;
 }
+
+* {
+    transition: .3s all ease;
+}
+
+.Default-nav {
+    background-color: white;
+}
+
+.Transparent {
+    background-color: transparent;
+}
